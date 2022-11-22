@@ -126,6 +126,44 @@ Which CIDR notation is the equivalent of the subnet mask of 255.255.192.0?
 - 11111111.11111111.11000000.00000000
 - 18 ones
 - /18
+--- 
+
+What is the network address for host 72.36.142.14/11?
+- subnet mask binary: 11111111 11100000 00000000 00000000
+- increment is 2^5 = 32
+- 72.0.0.0
+- 72.32.0.0
+- 72.64.0.0 
+- Ans: **72.32.0.0**
+--- 
+
+Which set of IP addresses is in the same subnet?
+1. 185.114.16.91/28 and 186.114.16.96/28
+2. 185.114.16.59/28 and 185.114.16.64/28
+3. 185.114.16.77/28 and 185.114.16.82/28
+4. - [x] 185.114.16.40/28 and 185.114.16.45/28
+
+```
+/28 in binary 11111111 11111111 11111111 11110000
+increment is 2^4 = 16
+185.114.16.0
+185.114.16.16
+185.114.16.32
+...
+
+1) 91 / 16 = 5.x, 96 / 16 = 6
+2) 59 / 16 = 3.x, 64 / 16 = 4
+3) 77 / 16 = 4.x, 82 / 16 = 5.x
+4) 40 / 16 = 2.x, 45 / 16 = 2.x
+```
+--- 
+
+Consider the host IP Address is - 192.168.100.60 and the network mask is - 255.255.255.224 (or /27). Which of the following address represents the correct network address for the referenced host?
+- 32-27=5  11100000， increment = 2^5= 32 
+- 60/32 = 1.x
+- then, **192.168.100.32**
+---
+
 
 
 
