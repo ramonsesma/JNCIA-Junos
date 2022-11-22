@@ -164,6 +164,23 @@ Consider the host IP Address is - 192.168.100.60 and the network mask is - 255.2
 - then, **192.168.100.32**
 ---
 
+![image](https://user-images.githubusercontent.com/57877290/203381208-f3c005ef-9de1-4c5d-aaa7-4ec7f4af770f.png)
+![image](https://user-images.githubusercontent.com/57877290/203381282-b242e9a7-8e7b-4a30-9da7-b5deb500573c.png)
+![image](https://user-images.githubusercontent.com/57877290/203381339-3cc6455f-5e0b-4ea2-a51d-5d129ba2a2fa.png)
+![image](https://user-images.githubusercontent.com/57877290/203381376-351d7e90-60b7-4bd5-acb8-1e8243b4cb79.png)
+![image](https://user-images.githubusercontent.com/57877290/203381443-364901ed-2e7b-4cd5-8aec-fd7e7ba8dccc.png)
+![image](https://user-images.githubusercontent.com/57877290/203381467-2eda03d3-81f1-464c-a8bb-26cdd5e5fe8d.png)
+![image](https://user-images.githubusercontent.com/57877290/203381503-f8e60ae3-dade-40b4-aabb-c9f22dcc0d2b.png)
+![image](https://user-images.githubusercontent.com/57877290/203381532-8300863f-e0e4-452b-80c0-72a9f9b09ead.png)
+![image](https://user-images.githubusercontent.com/57877290/203381564-c9dfc081-fc24-4ccc-8347-28a6334e7b30.png)
+![image](https://user-images.githubusercontent.com/57877290/203381607-0979395a-c6d3-4903-b0e7-9e3b19ed783b.png)
+![image](https://user-images.githubusercontent.com/57877290/203381645-24e7fb05-5ac6-4bd5-b5ce-314e68eeeca7.png)
+![image](https://user-images.githubusercontent.com/57877290/203381672-647e16f8-fdb0-499c-abdf-a387b29046d2.png)
+![image](https://user-images.githubusercontent.com/57877290/203381731-e7c1dce7-8580-4d03-8745-d6152227555f.png)
+![image](https://user-images.githubusercontent.com/57877290/203381771-8b17f2a5-4808-4208-912d-45fbe930f2b4.png)
+![image](https://user-images.githubusercontent.com/57877290/203381806-0113e090-7074-4c40-967f-53fdbdb71658.png)
+![image](https://user-images.githubusercontent.com/57877290/203381826-aac124d7-41e3-4b66-bf43-d0d5f4480868.png)
+![image](https://user-images.githubusercontent.com/57877290/203381887-46584769-58ee-4ab5-8da1-f558f92a10eb.png)
 
 
 
